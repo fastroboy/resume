@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: New York Taxi Analytics
+  role: Developer
+  duration: July, 2017
+  url: "https://fastroboy.github.io/projects/reports/lsds_final_cn.pdf"
+  description: Open-ended big data analytics on New York yellow taxi dataset. <ul class="resume-item-list"><li>Setup Spark computing cluster for parallel processing of gigabyte scale datasets. Implemented in Python using PySpark.</li><li>Derived the busiest and most expensive hailing locations through spatial trajectory clustering to assist passengers and drivers.</li><li>Constructed machine learning models that predict time of arrival.</li></ul>
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Large-scale Video Categorization
+  role: Co-Developer
+  duration: Jan, 2017
   # url: "#"
   description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
