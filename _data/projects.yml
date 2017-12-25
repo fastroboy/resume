@@ -12,3 +12,9 @@
   duration: Jan, 2017
   # url: "#"
   description: Reproduced work of Jiang et al. in <a href="https://arxiv.org/abs/1502.07209">Exploiting Feature and Class Relationships in Video Categorization with Regularized Deep Neural Networks</a>. <ul class="resume-item-list"><li>Used Python to implement a regularized deep neural network on the Fudan-Columbia Video Dataset (91,223 videos of 239 classes) and obtained 72.4% in precision.</li><li>Exploited feature and class relationships to improve performance.</li><li>Conducted GPU programming to deal with massive data processing.</li></ul>
+
+- project: Database Management System
+  role: Developer
+  duration: May, 2016
+  url: ""
+  description: A Java applet for querying player statistics from the mobile game One Piece Cruise. <ul class="resume-item-list"><li>Built the GUI using AWT and Swing. The database operations were programmed with MySQL and used IBM Bluemix for data storage.</li></ul>
