@@ -5,7 +5,7 @@
   role: Developer
   duration: July, 2017
   url: "https://fastroboy.github.io/projects/reports/lsds_final_cn.pdf"
-  description: Open-ended big data analytics on New York yellow taxi dataset. <ul class="resume-item-list"><li>Setup Spark computing cluster for parallel processing of gigabyte scale datasets. Implemented in Python using PySpark.</li><li>Derived the busiest and most expensive hailing locations through spatial trajectory clustering to assist passengers and drivers.</li><li>Constructed machine learning models that predict time of arrival.</li></ul>
+  description: Open-ended big data analytics on New York yellow taxi dataset. <ul class="resume-item-list"><li>Set up a Spark cluster for parallel processing of gigabyte scale datasets. Implemented in Python using PySpark.</li><li>Derived the busiest and most expensive hailing locations through spatial trajectory clustering to assist passengers and drivers.</li><li>Constructed machine learning models that predict time of arrival.</li></ul>
 
 - project: Large-scale Video Categorization
   role: Co-Developer
@@ -17,4 +17,4 @@
   role: Developer
   duration: May, 2016
   url: "https://github.com/fastroboy/OP_DBMS"
-  description: A Java applet for querying player statistics from the mobile game One Piece Cruise. <ul class="resume-item-list"><li>Built the GUI using AWT and Swing. The database operations were programmed with MySQL and used IBM Bluemix for data storage.</li></ul>
+  description: A Java applet for querying player statistics from the mobile game <a href="http://op.mobage.cn/home/">One Piece Cruise</a>. <ul class="resume-item-list"><li>Built the GUI using AWT and Swing. The database operations were programmed with MySQL and used IBM Bluemix for data storage.</li></ul>
