@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Learning to Play Othello through Self-play
+  role: Co-Developer
+  duration: Jan, 2018
+  url: "https://fastroboy.github.io/projects/reports/nndl_final.pdf"
+  description: An agent trained solely on reinforcement learning self-play to achieve superhuman proficiency in Othello. <ul class="resume-item-list"><li>Neural networks for policy estimation and Monte Carlo Tree Search for policy improvement</li><li>Won 93-7 against 3 levels of opponents.</li></ul>
+
 - project: New York Taxi Analytics
   role: Developer
   duration: July, 2017
